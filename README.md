@@ -1,3 +1,3 @@
-# demo
+# Project
 first git
 author=Likhita
